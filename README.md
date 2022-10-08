@@ -1,8 +1,10 @@
 # 349-People-British-English-Speech-Data-by-Mobile-Phone_Guiding
-https://www.datatang.ai/datasets/81
+
 
 ## Description
 This data set contains 349 English speaker's speech data, all of whom are English locals. The recording environment is quiet. The recorded content includes many fields such as car, home, voice assistant, etc. About 50 sentences per person. Valid data is 9.5 hours. All texts are manually transcribed with high accuracy.
+
+For more details, please refer to the link: https://bit.ly/3xRjcqG
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,7 @@ text, time point of speech data, 2 noise symbols, special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+
