@@ -4,7 +4,7 @@
 ## Description
 This data set contains 349 English speaker's speech data, all of whom are English locals. The recording environment is quiet. The recorded content includes many fields such as car, home, voice assistant, etc. About 50 sentences per person. Valid data is 9.5 hours. All texts are manually transcribed with high accuracy.
 
-For more details, please refer to the link: https://bit.ly/3xRjcqG
+For more details, please refer to the link: https://www.nexdata.ai/datasets/81?source=Github
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
